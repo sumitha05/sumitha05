@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sumitha05/sumitha05/main/header.svg" alt="UI Engineer boot screen header" />
+<img src="header.svg" alt="UI Engineer boot screen header" />
 
 ## Hey, I’m Sumitha 👋
 
