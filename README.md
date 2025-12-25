@@ -1,5 +1,3 @@
-<img src="header.svg" alt="UI Engineer boot screen header" />
-
 ## Hey, I’m Sumitha 👋
 
 I’m a **UI Engineer and UI/UX Designer** based in India.
