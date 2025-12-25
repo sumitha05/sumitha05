@@ -23,8 +23,9 @@ Right now, I’m focused on strengthening my frontend foundations and learning h
 - Improving performance and UI polish
 
 ### 📬 Reach Me
-- LinkedIn: https://linkedin.com/in/yourname
-- Email: your@email.com
+- LinkedIn: https://linkedin.com/in/sumithasreekumar
+- Email: sumithadesigns@gmail.com
+- Website: https://sumitha.framer.website/
 
 ### ✨ Fun Facts
 - I care a lot about spacing, motion, and visual hierarchy
