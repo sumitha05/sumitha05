@@ -41,7 +41,7 @@ I care deeply about how interfaces **look, move, feel, and perform** - and how t
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitha05&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitha05&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 ### 📬 Let’s Connect
 - **Website:** https://sumitha.framer.website  
