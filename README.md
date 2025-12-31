@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/4c/c5/b3/4cc5b305e289491590fa85af043561bd.gif)
+<img src="https://i.pinimg.com/originals/4c/c5/b3/4cc5b305e289491590fa85af043561bd.gif" width="100%" height="260"/>
+
 ## Hey, I’m Sumitha 👋
 
 I’m a **UI Engineer and UI/UX Designer** based in India.
