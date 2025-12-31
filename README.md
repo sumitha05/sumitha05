@@ -21,7 +21,7 @@ I care deeply about how interfaces **look, move, feel, and perform** - and how t
 ### 🚀 What I’m Working On
 - UI-heavy landing pages and focused UI experiments  
 - Micro-interactions and scroll-based animations  
-- Writing cleaner, more maintainable UI code  
+- Writing cleaner, more maintainable UI code
 
 ---
 
@@ -41,12 +41,13 @@ I care deeply about how interfaces **look, move, feel, and perform** - and how t
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitha05&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitha05&theme=nord)](https://git.io/streak-stats)
 
 ### 📬 Let’s Connect
 - **Website:** https://sumitha.framer.website  
 - **LinkedIn:** https://linkedin.com/in/sumithasreekumar  
-- **Email:** sumithadesigns@gmail.com  
+- **Email:** sumithadesigns@gmail.com
+- **Behance:** https://www.behance.net/sumithasreekum
 
 ---
 
